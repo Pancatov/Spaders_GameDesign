@@ -1,6 +1,14 @@
 {"frames": {
 
-"l2_planet_2_1.png":
+"finish-them-all.png":
+{
+	"frame": {"x":1,"y":1286,"w":700,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":700,"h":200},
+	"sourceSize": {"w":700,"h":200}
+},
+"l2_planet_1_1.png":
 {
 	"frame": {"x":1,"y":1,"w":256,"h":256},
 	"rotated": false,
@@ -8,7 +16,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
 	"sourceSize": {"w":256,"h":256}
 },
-"l3_planet_0_1.png":
+"l2_planet_2_1.png":
 {
 	"frame": {"x":258,"y":1,"w":256,"h":256},
 	"rotated": false,
@@ -16,7 +24,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
 	"sourceSize": {"w":256,"h":256}
 },
-"l3_planet_1_1.png":
+"l3_planet_0_1.png":
 {
 	"frame": {"x":515,"y":1,"w":256,"h":256},
 	"rotated": false,
@@ -24,39 +32,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
 	"sourceSize": {"w":256,"h":256}
 },
-"l3_planet_2_1.png":
-{
-	"frame": {"x":772,"y":1,"w":256,"h":256},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
-},
-"l4_planet_0_1.png":
-{
-	"frame": {"x":1029,"y":1,"w":256,"h":256},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
-},
-"l4_planet_1_1.png":
-{
-	"frame": {"x":1286,"y":1,"w":256,"h":256},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
-},
-"l4_planet_2_1.png":
-{
-	"frame": {"x":1543,"y":1,"w":256,"h":256},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
-},
-"l5_planet_0_1.png":
+"l3_planet_1_1.png":
 {
 	"frame": {"x":1,"y":258,"w":256,"h":256},
 	"rotated": false,
@@ -64,7 +40,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
 	"sourceSize": {"w":256,"h":256}
 },
-"l5_planet_1_1.png":
+"l3_planet_2_1.png":
 {
 	"frame": {"x":258,"y":258,"w":256,"h":256},
 	"rotated": false,
@@ -72,7 +48,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
 	"sourceSize": {"w":256,"h":256}
 },
-"l5_planet_2_1.png":
+"l4_planet_0_1.png":
 {
 	"frame": {"x":515,"y":258,"w":256,"h":256},
 	"rotated": false,
@@ -80,9 +56,49 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
 	"sourceSize": {"w":256,"h":256}
 },
+"l4_planet_1_1.png":
+{
+	"frame": {"x":1,"y":515,"w":256,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+"l4_planet_2_1.png":
+{
+	"frame": {"x":258,"y":515,"w":256,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+"l5_planet_0_1.png":
+{
+	"frame": {"x":515,"y":515,"w":256,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+"l5_planet_1_1.png":
+{
+	"frame": {"x":1,"y":772,"w":256,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+"l5_planet_2_1.png":
+{
+	"frame": {"x":258,"y":772,"w":256,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
 "l6_planet_0_1.png":
 {
-	"frame": {"x":772,"y":258,"w":256,"h":256},
+	"frame": {"x":515,"y":772,"w":256,"h":256},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
@@ -90,7 +106,7 @@
 },
 "l6_planet_1_1.png":
 {
-	"frame": {"x":1029,"y":258,"w":256,"h":256},
+	"frame": {"x":1,"y":1029,"w":256,"h":256},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
@@ -98,7 +114,7 @@
 },
 "l6_planet_2_1.png":
 {
-	"frame": {"x":1286,"y":258,"w":256,"h":256},
+	"frame": {"x":258,"y":1029,"w":256,"h":256},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
@@ -109,9 +125,9 @@
 	"version": "1.0",
 	"image": "game-1.png",
 	"format": "RGBA8888",
-	"size": {"w":1800,"h":515},
+	"size": {"w":772,"h":1487},
 	"scale": "1",
 	"related_multi_packs": [ "game-0.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:e906287b056f90174f645a5cdebcd265:763ad42f3aeb198ded8f791d5dbb9d91:f7031ad0edba38445f3f7cafed277efa$"
+	"smartupdate": "$TexturePacker:SmartUpdate:92532b5dfb1a95396afed42e12a2c78a:6979ecb13e68eca3075741ab8bcc68c3:f7031ad0edba38445f3f7cafed277efa$"
 }
 }

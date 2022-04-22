@@ -11,7 +11,7 @@
             "ignore": false,
             "name": "Basics",
             "displayName": "Video Game History",
-            "tilemapPath": "worldMaps/world1.json",
+            "tilemapPath": "worldMaps/world1Beto.json",
             "imageSrc": "",
             "colorPalletId": 0,
             "levels": [
