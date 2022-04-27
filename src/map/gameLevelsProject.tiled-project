@@ -1,0 +1,20 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "extensionsPath": "extensions",
+    "folders": [
+        "videogames",
+        "how-to-play",
+        "movies",
+        "main",
+        "gb",
+        "templates",
+        "tutorial",
+        "debug",
+        "basics",
+        "synth",
+        "_world1"
+    ],
+    "objectTypesFile": ""
+}

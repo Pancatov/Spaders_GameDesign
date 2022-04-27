@@ -1,0 +1,13 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "extensionsPath": "../map/extensions",
+    "folders": [
+        "world",
+        "world/tier1"
+    ],
+    "objectTypesFile": "",
+    "propertyTypes": [
+    ]
+}

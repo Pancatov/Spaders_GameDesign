@@ -2207,14 +2207,9 @@
                  "value":2
                 }, 
                 {
-                 "name":"fallTurns",
-                 "type":"int",
-                 "value":5
-                }, 
-                {
                  "name":"gameMode",
                  "type":"int",
-                 "value":3
+                 "value":0
                 }, 
                 {
                  "name":"i",
@@ -2262,7 +2257,7 @@
                  "value":0
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":16,
          "x":0,
          "y":0
@@ -2325,7 +2320,7 @@
                  "value":0
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":16,
          "x":0,
          "y":0
@@ -2388,7 +2383,7 @@
                  "value":0
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":16,
          "x":0,
          "y":0
@@ -2451,7 +2446,7 @@
                  "value":0
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":16,
          "x":0,
          "y":0
