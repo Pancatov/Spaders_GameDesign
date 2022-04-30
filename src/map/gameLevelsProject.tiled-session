@@ -74,7 +74,7 @@
         },
         "_world1/world1_tier2_levels.tmx": {
             "scale": 0.5,
-            "selectedLayer": 7,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 502,
                 "y": 770

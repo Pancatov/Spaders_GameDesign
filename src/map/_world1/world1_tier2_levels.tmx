@@ -42,7 +42,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="Horsea" width="16" height="16" visible="0">
+ <layer id="74" name="Horsea" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="24"/>
@@ -75,7 +75,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -107,7 +107,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="WaterSnake" width="16" height="16" visible="0">
+ <layer id="74" name="WaterSnake" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -140,7 +140,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -172,7 +172,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="WaterCat" width="16" height="16" visible="0">
+ <layer id="74" name="WaterCat" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -205,7 +205,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -270,7 +270,7 @@
 0,0,0,5,0,0,0,0,5,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -302,7 +302,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="Jellyfish" width="16" height="16" visible="0">
+ <layer id="74" name="Jellyfish" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -335,7 +335,7 @@
 0,0,13,0,0,0,13,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -367,7 +367,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="Turtle" width="16" height="16" visible="0">
+ <layer id="74" name="Turtle" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -400,7 +400,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -432,7 +432,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="Crab" width="16" height="16" visible="0">
+ <layer id="74" name="Crab" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -465,7 +465,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -530,7 +530,7 @@
 13,21,0,0,13,21,0,13,21,0,13,21,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
