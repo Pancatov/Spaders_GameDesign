@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "how-to-play/simple-shapes.tmx",
+    "activeFile": "_world1/world1_tier5_levels.tmx",
     "expandedProjectPaths": [
-        "debug",
+        "_world1",
         "world",
         "how-to-play",
-        "_world1"
+        "debug"
     ],
     "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
     "fileStates": {
@@ -68,56 +68,56 @@
             "scale": 0.7247242647058822,
             "selectedLayer": 11,
             "viewCenter": {
-                "x": 481.5624603677871,
-                "y": 329.78059606848456
+                "x": 639.553582752061,
+                "y": 638.8636651870643
             }
         },
         "_world1/world1_tier2_levels.tmx": {
             "scale": 0.5,
-            "selectedLayer": 0,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 502,
-                "y": 770
+                "x": 481,
+                "y": 512
             }
         },
         "_world1/world1_tier3_levels.tmx": {
             "scale": 0.7247242647058822,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 478.80279010779975,
-                "y": 328.40076093849086
+                "x": 352.5478757133799,
+                "y": 384.9740012682309
             }
         },
         "_world1/world1_tier4_levels.tmx": {
             "scale": 0.7247242647058822,
             "selectedLayer": 33,
             "viewCenter": {
-                "x": 478.80279010779975,
-                "y": 510.5389980976539
+                "x": 756.839568801522,
+                "y": 507.77932783766653
             }
         },
         "_world1/world1_tier5_levels.tmx": {
-            "scale": 0.7247242647058822,
-            "selectedLayer": 2,
+            "scale": 0.75,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 480.18262523779333,
-                "y": 513.2986683576412
+                "x": 747.3333333333334,
+                "y": 541.3333333333334
             }
         },
         "_world1/world1_tier6_levels.tmx": {
             "scale": 0.7247242647058822,
-            "selectedLayer": 2,
+            "selectedLayer": 43,
             "viewCenter": {
-                "x": 480.18262523779333,
+                "x": 480.8725428027902,
                 "y": 513.2986683576412
             }
         },
         "_world1/world1_tier7_levels.tmx": {
             "scale": 0.7247242647058822,
-            "selectedLayer": 2,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 480.18262523779333,
-                "y": 513.2986683576412
+                "x": 480.8725428027902,
+                "y": 511.91883322764755
             }
         },
         "_world1/world1_tier8_levels.tmx": {
@@ -148,15 +148,15 @@
             "scale": 0.6522518382352941,
             "selectedLayer": 16,
             "viewCenter": {
-                "x": 479.8759952089057,
-                "y": 512.0721482420912
+                "x": 480.64257028112456,
+                "y": 512.0721482420911
             }
         },
         "debug/debug2.tmx": {
             "scale": 0.125,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 2304,
+                "x": 2308,
                 "y": 3072
             }
         },
@@ -164,8 +164,8 @@
             "scale": 0.7247242647058822,
             "selectedLayer": 34,
             "viewCenter": {
-                "x": 478.80279010779975,
-                "y": 488.4616360177553
+                "x": 480.8725428027902,
+                "y": 511.91883322764755
             }
         },
         "gb/gameboyCreatures.tmx": {
@@ -220,8 +220,8 @@
             "scale": 0.75,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 322.66666666666674,
-                "y": 382.6666666666667
+                "x": 320.6666666666666,
+                "y": 384
             }
         },
         "how-to-play/gameboy.tmx": {
@@ -252,8 +252,8 @@
             "scale": 0.8201171875,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 354.8273398428197,
-                "y": 221.91950464396285
+                "x": 860.2429149797572,
+                "y": 508.4639199809479
             }
         },
         "how-to-play/pokemon1-25.tmx": {
@@ -332,8 +332,8 @@
             "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 638,
-                "y": 374
+                "x": 641,
+                "y": 640
             }
         },
         "how-to-play/spadersTileset.tsx": {
@@ -480,7 +480,7 @@
         },
         "tilesets/spadersTileset.tsx": {
             "dynamicWrapping": false,
-            "scaleInDock": 0.5,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "tilesets/synt.tsx": {
@@ -504,7 +504,7 @@
             "scale": 0.25,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 768,
+                "x": 770,
                 "y": 768
             }
         },
@@ -609,22 +609,27 @@
         "debug/debugBeto.tmx",
         "_world1/world1_tier1_levels.tmx",
         "_world1/world1_tier4_levels.tmx",
-        "_world1/world1_tier3_levels.tmx"
+        "how-to-play/people-set-1.tmx",
+        "_world1/world1_tier3_levels.tmx",
+        "_world1/world1_tier2_levels.tmx",
+        "how-to-play/creatures.tmx",
+        "_world1/world1_tier5_levels.tmx",
+        "_world1/world1_tier6_levels.tmx"
     ],
     "project": "gameLevelsProject.tiled-project",
     "property.type": "int",
     "recentFiles": [
-        "_world1/world1_tier3_levels.tmx",
-        "_world1/world1_tier4_levels.tmx",
-        "_world1/world1_tier1_levels.tmx",
-        "debug/debugBeto.tmx",
-        "debug/debug.tmx",
-        "debug/debug2.tmx",
-        "videogames/levels.tmx",
         "how-to-play/simple-shapes.tmx",
-        "_world1/world1_tier9_levels.tmx",
-        "_world1/world1_tier8_levels.tmx",
-        "_world1/world1_tier7_levels.tmx",
+        "videogames/levels.tmx",
+        "debug/debug2.tmx",
+        "debug/debug.tmx",
+        "debug/debugBeto.tmx",
+        "_world1/world1_tier1_levels.tmx",
+        "_world1/world1_tier4_levels.tmx",
+        "how-to-play/people-set-1.tmx",
+        "_world1/world1_tier3_levels.tmx",
+        "_world1/world1_tier2_levels.tmx",
+        "how-to-play/creatures.tmx",
         "_world1/world1_tier6_levels.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",

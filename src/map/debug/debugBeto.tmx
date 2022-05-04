@@ -980,7 +980,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="Empty" width="16" height="16" visible="0">
+ <layer id="74" name="Empty" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -1012,7 +1012,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -1108,7 +1108,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="Empty" width="16" height="16">
+ <layer id="74" name="Empty" width="16" height="16" visible="0">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="gameMode" type="int" value="0"/>
@@ -1141,7 +1141,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16">
+ <layer id="106" name="_ADDON" width="16" height="16" visible="0">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
