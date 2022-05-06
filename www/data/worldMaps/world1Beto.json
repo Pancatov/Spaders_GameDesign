@@ -247,11 +247,11 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/..\/..\/Projetos\/spaders-gh-pages\/spaders\/src\/worlds\/tilesets\/numbers.tsx"
+         "source":"..\/..\/..\/src\/worlds\/tilesets\/numbers.tsx"
         }, 
         {
          "firstgid":1025,
-         "source":"..\/..\/..\/..\/..\/Projetos\/spaders-gh-pages\/spaders\/src\/worlds\/world\/Tilemap_1.tsx"
+         "source":"..\/..\/..\/src\/worlds\/world\/Tilemap_1.tsx"
         }],
  "tilewidth":64,
  "type":"map",
