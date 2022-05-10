@@ -3,9 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "_world1/world1_tier2_levels.tmx",
+    "activeFile": "_world1/world1_tier4_levels.tmx",
     "expandedProjectPaths": [
-        "_world1"
+        "_world1",
+        "debug"
     ],
     "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
     "fileStates": {
@@ -13,32 +14,32 @@
             "scale": 0.6709375,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 639.4038192827202,
-                "y": 639.4038192827202
+                "x": 637.9133674895203,
+                "y": 640.14904517932
             }
         },
         "_world1/world1_tier2_levels.tmx": {
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 510.6666666666667,
-                "y": 504
+                "x": 479.99999999999994,
+                "y": 512.6666666666665
             }
         },
         "_world1/world1_tier3_levels.tmx": {
             "scale": 1.1182291666666666,
-            "selectedLayer": 0,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 352.342803912436,
-                "y": 384.53656264555195
+                "x": 353.2370749883559,
+                "y": 384.08942710759203
             }
         },
         "_world1/world1_tier4_levels.tmx": {
             "scale": 0.838671875,
-            "selectedLayer": 0,
+            "selectedLayer": 32,
             "viewCenter": {
                 "x": 480.52165812761996,
-                "y": 512.7154168607359
+                "y": 512.119236143456
             }
         },
         "_world1/world1_tier5_levels.tmx": {
@@ -46,47 +47,47 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 480.52165812761996,
-                "y": 512.7154168607359
+                "y": 512.119236143456
             }
         },
         "_world1/world1_tier6_levels.tmx": {
-            "scale": 0.838671875,
-            "selectedLayer": 0,
+            "scale": 0.5,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 480.52165812761996,
-                "y": 512.7154168607359
+                "x": 480,
+                "y": 513
             }
         },
         "_world1/world1_tier7_levels.tmx": {
-            "scale": 0.838671875,
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 480.52165812761996,
-                "y": 512.7154168607359
+                "x": 480,
+                "y": 513
             }
         },
         "_world1/world1_tier8_levels.tmx": {
             "scale": 0.5,
-            "selectedLayer": 20,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 408,
-                "y": 398
+                "x": 406,
+                "y": 633
             }
         },
         "_world1/world1_tier9_levels.tmx": {
             "scale": 0.7282169117647059,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 477.879591063991,
-                "y": 509.4635870251168
+                "x": 514.9564558879212,
+                "y": 512.8966300643696
             }
         },
         "debug/debugBeto.tmx": {
             "scale": 0.7282169117647059,
-            "selectedLayer": 18,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 480.6260254953931,
-                "y": 330.94534898397075
+                "y": 512.8966300643696
             }
         },
         "tilesets/gb.tsx": {
@@ -114,19 +115,23 @@
         "_world1/world1_tier5_levels.tmx",
         "_world1/world1_tier6_levels.tmx",
         "_world1/world1_tier8_levels.tmx",
-        "_world1/world1_tier7_levels.tmx"
+        "_world1/world1_tier7_levels.tmx",
+        "_world1/world1_tier9_levels.tmx",
+        "debug/debugBeto.tmx"
     ],
     "project": "gameLevelsProject.tiled-project",
     "property.type": "int",
     "recentFiles": [
         "_world1/world1_tier1_levels.tmx",
+        "_world1/world1_tier2_levels.tmx",
+        "_world1/world1_tier3_levels.tmx",
+        "debug/debugBeto.tmx",
+        "_world1/world1_tier9_levels.tmx",
         "_world1/world1_tier7_levels.tmx",
         "_world1/world1_tier8_levels.tmx",
         "_world1/world1_tier6_levels.tmx",
         "_world1/world1_tier5_levels.tmx",
-        "_world1/world1_tier4_levels.tmx",
-        "_world1/world1_tier3_levels.tmx",
-        "_world1/world1_tier2_levels.tmx"
+        "_world1/world1_tier4_levels.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",

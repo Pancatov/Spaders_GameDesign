@@ -3,25 +3,25 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "world/testWorld1Beto.tmx",
+    "activeFile": "world/tier1/tier1-1.tmx",
     "expandedProjectPaths": [
-        "D:/projects/spaders/spaders/src/map/world",
-        "D:/projects/spaders/spaders/src/map/how-to-play",
-        "world/tier1",
-        "C:/Users/alber/Documents/Projetos/spaders-gh-pages/spaders/src/map",
-        "D:/projects/spaders/spaders/src/map/debug",
-        "C:/Users/alber/Documents/Projetos/spaders-gh-pages/spaders/src/map/basics",
-        "D:/projects/spaders/spaders/src/map/synth",
         "D:/projects/spaders/spaders/src/map/basics",
-        "D:/projects/spaders/spaders/src/map/templates",
-        "C:/Users/alber/Documents/Projetos/spaders-gh-pages/spaders/src/map/debug",
         "D:/projects/spaders/spaders/src/map/movies",
-        "D:/projects/spaders/spaders/src/map/videogames",
         "D:/projects/spaders/spaders/src/map/tutorial",
+        "C:/Users/alber/Documents/Projetos/spaders-gh-pages/spaders/www/data",
+        "D:/projects/spaders/spaders/src/map/templates",
+        "C:/Users/alber/Documents/Projetos/spaders-gh-pages/spaders/src/map",
+        "D:/projects/spaders/spaders/src/map/synth",
+        "C:/Users/alber/Documents/Projetos/spaders-gh-pages/spaders/src/map/debug",
+        "C:/Users/alber/Documents/Projetos/spaders-gh-pages/spaders/src/map/basics",
         "D:/projects/spaders/spaders/src/map/gb",
         "D:/projects/spaders/spaders/src/map/main",
+        "D:/projects/spaders/spaders/src/map/debug",
+        "D:/projects/spaders/spaders/src/map/world",
         "C:/Users/alber/Documents/Projetos/spaders-gh-pages/spaders/src/map/videogames",
-        "C:/Users/alber/Documents/Projetos/spaders-gh-pages/spaders/www/data"
+        "world/tier1",
+        "D:/projects/spaders/spaders/src/map/videogames",
+        "D:/projects/spaders/spaders/src/map/how-to-play"
     ],
     "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
     "fileStates": {
@@ -580,7 +580,7 @@
             "selectedLayer": 9,
             "viewCenter": {
                 "x": 184,
-                "y": 506
+                "y": 507
             }
         },
         "world/basicWorldBeto.tmx": {
@@ -604,7 +604,7 @@
             "selectedLayer": 4,
             "viewCenter": {
                 "x": 432.00119787377406,
-                "y": 529.9393576401886
+                "y": 530.6101669536573
             }
         },
         "world/testWorld1.tmx#WorldTiles": {
@@ -612,11 +612,11 @@
             "scaleInDock": 1
         },
         "world/testWorld1Beto.tmx": {
-            "scale": 0.33,
-            "selectedLayer": 13,
+            "scale": 0.75,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 1060.6060606060607,
-                "y": 848.4848484848485
+                "x": 1093.3333333333333,
+                "y": 696.6666666666665
             }
         },
         "world/testWorldSynth.tmx": {
@@ -634,80 +634,80 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": -60,
-                "y": 460
+                "x": 207.99999999999994,
+                "y": 464.6666666666666
             }
         },
         "world/tier1/tier1-2.tmx": {
             "scale": 0.9254310344827585,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 161.00605496040993,
-                "y": 466.8095016301817
+                "x": 192.342803912436,
+                "y": 464.10805775500705
             }
         },
         "world/tier1/tier1-3.tmx": {
             "scale": 0.9254310344827585,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 244.21052631578954,
-                "y": 466.8095016301817
+                "x": 208.55146716348398,
+                "y": 464.10805775500705
             }
         },
         "world/tier1/tier1-4.tmx": {
             "scale": 0.9254310344827585,
-            "selectedLayer": 10,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": -10.805775500698644,
-                "y": 466.8095016301817
+                "x": 192.342803912436,
+                "y": 464.10805775500705
             }
         },
         "world/tier1/tier1-5.tmx": {
             "scale": 0.9254310344827585,
-            "selectedLayer": 10,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 208.55146716348398,
-                "y": 464.64834653004203
+                "x": 192.342803912436,
+                "y": 464.10805775500705
             }
         },
         "world/tier1/tier1-6.tmx": {
             "scale": 0.9254310344827585,
-            "selectedLayer": 10,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 208.55146716348398,
-                "y": 464.64834653004203
+                "x": 212.87377736376345,
+                "y": 465.1886353050769
             }
         },
         "world/tier1/tier1-7.tmx": {
             "scale": 0.9254310344827585,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 208.55146716348398,
-                "y": 464.64834653004203
+                "x": 192.342803912436,
+                "y": 464.10805775500705
             }
         },
         "world/tier1/tier1-8.tmx": {
             "scale": 0.9254310344827585,
-            "selectedLayer": 10,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 208.55146716348398,
-                "y": 464.64834653004203
+                "x": 192.342803912436,
+                "y": 464.10805775500705
             }
         },
         "world/tier1/tier1-9.tmx": {
             "scale": 0.9254310344827585,
-            "selectedLayer": 10,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 208.55146716348398,
-                "y": 464.64834653004203
+                "x": 210.7126222636237,
+                "y": 322.5523986958547
             }
         },
         "world/tier1BasicMap.tmx": {
             "scale": 0.8890624999999999,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 288.50615114235507,
-                "y": 557.8910369068542
+                "x": 289.0685413005273,
+                "y": 557.328646748682
             }
         },
         "world/tilesets/numbers.tsx": {
@@ -742,25 +742,26 @@
         "world/tier1/tier1-4.tmx",
         "world/tier1/tier1-5.tmx",
         "world/tier1/tier1-6.tmx",
-        "world/tier1/tier1-7.tmx",
         "world/tier1/tier1-8.tmx",
-        "world/tier1/tier1-9.tmx"
+        "world/tier1/tier1-9.tmx",
+        "world/tier1/tier1-7.tmx",
+        "world/tier1BasicMap.tmx"
     ],
     "project": "worldsProject.tiled-project",
     "property.type": "int",
     "recentFiles": [
         "world/basicWorld.tmx",
-        "world/tier1/tier1-1.tmx",
-        "world/testWorld1.tmx",
+        "world/tier1BasicMap.tmx",
+        "world/tier1/tier1-7.tmx",
         "world/tier1/tier1-9.tmx",
         "world/tier1/tier1-8.tmx",
-        "world/tier1/tier1-7.tmx",
         "world/tier1/tier1-6.tmx",
         "world/tier1/tier1-5.tmx",
         "world/tier1/tier1-4.tmx",
         "world/tier1/tier1-3.tmx",
         "world/tier1/tier1-2.tmx",
-        "world/testWorld1Beto.tmx"
+        "world/testWorld1Beto.tmx",
+        "world/testWorld1.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",
