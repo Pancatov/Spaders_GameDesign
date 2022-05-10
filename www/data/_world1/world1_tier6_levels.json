@@ -1382,7 +1382,7 @@
         {
          "name":"coverID",
          "type":"int",
-         "value":0
+         "value":5
         }, 
         {
          "name":"iconURL",
@@ -1392,7 +1392,7 @@
         {
          "name":"sectionName",
          "type":"string",
-         "value":"Food"
+         "value":"Jungle"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",

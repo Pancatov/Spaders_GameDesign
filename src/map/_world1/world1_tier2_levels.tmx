@@ -4,7 +4,7 @@
   <export target="../../../www/data/_world1/world1_tier2_levels.json" format="json"/>
  </editorsettings>
  <properties>
-  <property name="coverID" type="int" value="0"/>
+  <property name="coverID" type="int" value="1"/>
   <property name="iconURL" value=""/>
   <property name="sectionName" value="Lake"/>
  </properties>

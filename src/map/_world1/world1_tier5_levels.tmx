@@ -4,7 +4,7 @@
   <export target="../../../www/data/_world1/world1_tier5_levels.json" format="json"/>
  </editorsettings>
  <properties>
-  <property name="coverID" type="int" value="0"/>
+  <property name="coverID" type="int" value="4"/>
   <property name="iconURL" value=""/>
   <property name="sectionName" value="Cemetery"/>
  </properties>
@@ -42,7 +42,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="Zombie" width="16" height="16" visible="0">
+ <layer id="74" name="Zombie" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -75,7 +75,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -107,7 +107,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="Ogre" width="16" height="16" visible="0">
+ <layer id="74" name="Ogre" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -140,7 +140,7 @@
 0,27,27,0,0,0,20,0,20,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -172,7 +172,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="Gravestone" width="16" height="16" visible="0">
+ <layer id="74" name="Gravestone" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="24"/>
@@ -205,7 +205,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -237,7 +237,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="Eye" width="16" height="16" visible="0">
+ <layer id="74" name="Eye" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -270,7 +270,7 @@
 0,0,24,24,26,26,24,0,24,8,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -302,7 +302,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="Bat" width="16" height="16" visible="0">
+ <layer id="74" name="Bat" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -335,7 +335,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -367,7 +367,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="SkeletonCat" width="16" height="16" visible="0">
+ <layer id="74" name="SkeletonCat" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -400,7 +400,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -432,7 +432,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="PoisonousSnake" width="16" height="16" visible="0">
+ <layer id="74" name="PoisonousSnake" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -465,7 +465,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -562,7 +562,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="SkullBlob" width="16" height="16" visible="0">
+ <layer id="74" name="SkullBlob" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -595,7 +595,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -627,7 +627,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="74" name="Demon" width="16" height="16" visible="0">
+ <layer id="74" name="Demon" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>
@@ -660,7 +660,7 @@
 0,0,0,0,0,0,26,0,0,26,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="106" name="_ADDON" width="16" height="16" visible="0">
+ <layer id="106" name="_ADDON" width="16" height="16">
   <properties>
    <property name="autoPlaceBlockers" type="int" value="2"/>
    <property name="i" type="int" value="11"/>

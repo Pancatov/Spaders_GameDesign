@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "_world1/world1_tier4_levels.tmx",
+    "activeFile": "_world1/world1_tier5_levels.tmx",
     "expandedProjectPaths": [
         "_world1",
         "debug"
@@ -30,7 +30,7 @@
             "scale": 1.1182291666666666,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 353.2370749883559,
+                "x": 354.13134606427576,
                 "y": 384.08942710759203
             }
         },
@@ -44,7 +44,7 @@
         },
         "_world1/world1_tier5_levels.tmx": {
             "scale": 0.838671875,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 480.52165812761996,
                 "y": 512.119236143456
@@ -122,16 +122,16 @@
     "project": "gameLevelsProject.tiled-project",
     "property.type": "int",
     "recentFiles": [
+        "_world1/world1_tier5_levels.tmx",
         "_world1/world1_tier1_levels.tmx",
         "_world1/world1_tier2_levels.tmx",
         "_world1/world1_tier3_levels.tmx",
+        "_world1/world1_tier4_levels.tmx",
         "debug/debugBeto.tmx",
         "_world1/world1_tier9_levels.tmx",
         "_world1/world1_tier7_levels.tmx",
         "_world1/world1_tier8_levels.tmx",
-        "_world1/world1_tier6_levels.tmx",
-        "_world1/world1_tier5_levels.tmx",
-        "_world1/world1_tier4_levels.tmx"
+        "_world1/world1_tier6_levels.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",
