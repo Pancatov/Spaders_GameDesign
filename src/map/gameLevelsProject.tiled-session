@@ -3,8 +3,9 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "_world1/world1_tier5_levels.tmx",
+    "activeFile": "gb/gameboyCreatures.tmx",
     "expandedProjectPaths": [
+        "gb",
         "_world1",
         "debug"
     ],
@@ -12,50 +13,50 @@
     "fileStates": {
         "_world1/world1_tier1_levels.tmx": {
             "scale": 0.6709375,
-            "selectedLayer": 0,
+            "selectedLayer": 11,
             "viewCenter": {
                 "x": 637.9133674895203,
-                "y": 640.14904517932
+                "y": 640.89427107592
             }
         },
         "_world1/world1_tier2_levels.tmx": {
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 479.99999999999994,
-                "y": 512.6666666666665
+                "x": 480,
+                "y": 513.3333333333334
             }
         },
         "_world1/world1_tier3_levels.tmx": {
             "scale": 1.1182291666666666,
-            "selectedLayer": 12,
+            "selectedLayer": 10,
             "viewCenter": {
                 "x": 354.13134606427576,
-                "y": 384.08942710759203
+                "y": 384.53656264555195
             }
         },
         "_world1/world1_tier4_levels.tmx": {
             "scale": 0.838671875,
-            "selectedLayer": 32,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 480.52165812761996,
-                "y": 512.119236143456
+                "y": 512.7154168607359
             }
         },
         "_world1/world1_tier5_levels.tmx": {
             "scale": 0.838671875,
-            "selectedLayer": 2,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 480.52165812761996,
-                "y": 512.119236143456
+                "y": 512.7154168607359
             }
         },
         "_world1/world1_tier6_levels.tmx": {
             "scale": 0.5,
-            "selectedLayer": 15,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 480,
-                "y": 513
+                "y": 514
             }
         },
         "_world1/world1_tier7_levels.tmx": {
@@ -63,31 +64,71 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 480,
-                "y": 513
+                "y": 514
             }
         },
         "_world1/world1_tier8_levels.tmx": {
             "scale": 0.5,
-            "selectedLayer": 15,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 406,
-                "y": 633
+                "y": 634
             }
         },
         "_world1/world1_tier9_levels.tmx": {
             "scale": 0.7282169117647059,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 514.9564558879212,
-                "y": 512.8966300643696
+                "x": 512.210021456519,
+                "y": 512.210021456519
             }
         },
         "debug/debugBeto.tmx": {
             "scale": 0.7282169117647059,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 480.6260254953931,
-                "y": 512.8966300643696
+                "x": 480.62602549539315,
+                "y": 512.210021456519
+            }
+        },
+        "gb/gameboyCreatures.tmx": {
+            "scale": 0.49518749999999995,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 739.1139719803107,
+                "y": 769.4055282090119
+            }
+        },
+        "gb/gameboyMisc.tmx": {
+            "scale": 0.7282169117647059,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.62602549539315,
+                "y": 512.210021456519
+            }
+        },
+        "gb/gameboyMisc2.tmx": {
+            "scale": 0.7282169117647059,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.62602549539315,
+                "y": 512.210021456519
+            }
+        },
+        "gb/gameboyWeapon1.tmx": {
+            "scale": 0.77373046875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 513.0985737725609,
+                "y": 513.0985737725609
+            }
+        },
+        "gb/gameboyWeapon2.tmx": {
+            "scale": 0.77373046875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 513.0985737725609,
+                "y": 513.0985737725609
             }
         },
         "tilesets/gb.tsx": {
@@ -112,26 +153,33 @@
         "_world1/world1_tier2_levels.tmx",
         "_world1/world1_tier3_levels.tmx",
         "_world1/world1_tier4_levels.tmx",
-        "_world1/world1_tier5_levels.tmx",
         "_world1/world1_tier6_levels.tmx",
         "_world1/world1_tier8_levels.tmx",
         "_world1/world1_tier7_levels.tmx",
         "_world1/world1_tier9_levels.tmx",
-        "debug/debugBeto.tmx"
+        "debug/debugBeto.tmx",
+        "_world1/world1_tier5_levels.tmx",
+        "gb/gameboyCreatures.tmx",
+        "gb/gameboyMisc.tmx",
+        "gb/gameboyMisc2.tmx",
+        "gb/gameboyWeapon1.tmx",
+        "gb/gameboyWeapon2.tmx"
     ],
     "project": "gameLevelsProject.tiled-project",
-    "property.type": "int",
+    "property.type": "string",
     "recentFiles": [
-        "_world1/world1_tier5_levels.tmx",
         "_world1/world1_tier1_levels.tmx",
         "_world1/world1_tier2_levels.tmx",
         "_world1/world1_tier3_levels.tmx",
         "_world1/world1_tier4_levels.tmx",
-        "debug/debugBeto.tmx",
-        "_world1/world1_tier9_levels.tmx",
-        "_world1/world1_tier7_levels.tmx",
+        "_world1/world1_tier6_levels.tmx",
         "_world1/world1_tier8_levels.tmx",
-        "_world1/world1_tier6_levels.tmx"
+        "_world1/world1_tier7_levels.tmx",
+        "_world1/world1_tier9_levels.tmx",
+        "debug/debugBeto.tmx",
+        "_world1/world1_tier5_levels.tmx",
+        "gb/gameboyCreatures.tmx",
+        "gb/gameboyWeapon2.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",
